@@ -5,9 +5,9 @@ NTP，Network Time Protocol，网络时间协议；它是用来使网络中的�
 
 [arduino IDE 配置](http://file.yfrobot.com/file/wifi/nodemcu/arduino/arduinoIDEForTheESP8266.html)
 
-串口打印：![http://v.youku.com/v_show/id_XMTcxNzY3MzQ4NA==.html](http://v.youku.com/v_show/id_XMTcxNzY3MzQ4NA==.html)
+串口打印：![https://github.com/finalvalue/YFRobot-NTPClock_OneNet/blob/master/image/NTP%20time.png?raw=true)
 
-世界时区分布图：![weatherStation](https://raw.githubusercontent.com/YFROBOT-TM/WeatherStationWithESP8266/master/Schematic/WeatherStation.png)
+世界时区分布图：![](https://github.com/finalvalue/YFRobot-NTPClock_OneNet/blob/master/image/time-zone-offset.png?raw=true)
 
 ###Using library
 * [Timer Library](http://www.arduino.cc/playground/Code/Time)
