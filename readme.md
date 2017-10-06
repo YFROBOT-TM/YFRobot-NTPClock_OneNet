@@ -12,7 +12,7 @@ NTP，Network Time Protocol，网络时间协议；它是用来使网络中的�
 世界时区分布图：![](https://github.com/finalvalue/YFRobot-NTPClock_OneNet/blob/master/image/time-zone-offset.png?raw=true)
 
 ###Using library
-* [Timer Library](http://www.arduino.cc/playground/Code/Time)
+* [Time Library](https://github.com/PaulStoffregen/Time)
 * [Timezone library](https://github.com/JChristensen/Timezone)
 
 Created by [YFROBOT](www.yfrobot.com)
