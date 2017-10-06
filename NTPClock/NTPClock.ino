@@ -4,7 +4,7 @@
    ESP8266 连接到NET WORK ，获取NTP
 
   library:
-   http://www.arduino.cc/playground/Code/Time
+   https://github.com/PaulStoffregen/Time
    https://github.com/JChristensen/Timezone
 
    by: yfrobot
